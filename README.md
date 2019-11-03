@@ -1,7 +1,8 @@
 DeepFake Detection
 ===
 
-DeepFakes have been in the news for over a year now, mostly for all the wrong reasons. This repository is home to Pytorch implementations of various deepfake detection algorithms, tested on Google AI's [Deep Fake Detection Dataset](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html).
+DeepFakes have been in the news for over a year now, mostly for all the wrong reasons. This repository is home to Pytorch implementations of various deepfake detection algorithms, tested on Google AI's [Deep
+Fake Detection Dataset](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html).
 
 
 ## Algorithms
